@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanvir Ahmmed</h1>
-<h3 align="center">I'm Learning Full Stack Developer.</h3>
+<h3 align="center">I'm learning to become a Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neiltanvir&label=Profile%20views&color=0e75b6&style=flat" alt="neiltanvir" /> </p>
 
