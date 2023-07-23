@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neiltanvir&label=Profile%20views&color=0e75b6&style=flat" alt="neiltanvir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neiltanvir" alt="neiltanvir" /></a> </p>
-
 - 🔭 I’m currently working on [..](...)
 
 - 🌱 I’m currently learning **| C# | SQL SERVER |**
