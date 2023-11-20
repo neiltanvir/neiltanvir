@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [..](...)
 
-- 🌱 I’m currently learning **| C# | SQL | UML | HTML | JS | CSS |**
+- 🌱 I’m currently learning **| C# | SQL | UML | HTML | JS | CSS | ADO.NET | MVC |**
 
 - 👯 I’m looking to collaborate on [..](...)
 
