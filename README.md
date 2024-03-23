@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tanvir Ahmmed</h1>
-<h3 align="center">I'm learning to become a Full Stack Developer.</h3>
+<h3 align="center">I'm a Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neiltanvir&label=Profile%20views&color=0e75b6&style=flat" alt="neiltanvir" /> </p>
 
 - 🔭 I’m currently working on [..](...)
 
-- 🌱 I’m currently learning **| C# | SQL | UML | HTML | JavaScript | CSS | ADO.NET | MVC |**
+- 🌱 I’m currently learning **| C# | SQL | UML | HTML | JavaScript | CSS | ADO.NET | MVC | ASP.NET CORE | WEB API | Angular | Blazor | MAUI | 
 
 - 👯 I’m looking to collaborate on [..](...)
 
